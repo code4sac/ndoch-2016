@@ -1,10 +1,10 @@
-##Food Insecurity Challenge
+#Food Insecurity Challenge
 
-**How do we get an actionable picture of food insecurity at the
+How do we get an actionable picture of food insecurity at the
 community and county level and build solutions to better tackle this
-important issue?**
+important issue?
 
-**THE PROBLEM:**
+##The Problem
 
 [Many California families are eating a nutritionally poor diet or going
 hungry](http://www.cafoodbanks.org/hunger-factsheet). According to
@@ -61,10 +61,10 @@ low-nutrient, high-calorie food, but provide limited access to the fresh
 fruits and vegetables our State supplies in vast quantity to the rest of
 the nation.
 
-**THE CHALLENGE: **
+##The Challenge
 
-**We are calling all data enthusiasts and innovators to help us better
-tackle food insecurity challenges. **
+We are calling all data enthusiasts and innovators to help us better
+tackle food insecurity challenges.
 
 **Telling the story using** **data**
 
@@ -80,7 +80,7 @@ tackle food insecurity challenges. **
 > communities to access available resources and better tackle food
 > insecurity challenges?
 
-**A FEW DATA RESOURCES TO GET YOU STARTED:**
+##A few data resources to get you started
 
 **Open Data Sources**
 
@@ -181,7 +181,7 @@ tackle food insecurity challenges. **
 -   [Farmers Market
     Locations](http://www.data.gov/food/farmers-market-api/)
 
--   CA [Community
+-   [CA Community
     gardens](http://www.bing.com/mapspreview?&ty=17&q=community%20Gardens%20in%20CA&ppois=37.8555793762207_-122.279792785645_Spiral%20Gardens%20Community%20Food%20Security%20Project_YN120x402659242~38.3909797668457_-121.352676391602_Elk%20Grove%20Community%20Garden_YN873x3243856795836959905~34.1649742126465_-118.495460510254_Sepulveda%20Garden%20Center_YN88x1153479~34.0146980285645_-118.441886901855_Ocean%20View%20Farms_YN75x402486335~34.4479598999023_-119.828681945801_Fairview%20Gardens_YN104x401322029~&v=2&sV=1&qpvt=community+Gardens+in+CA&FORM=SNAPST)
 
 -   [USDA Economic Research Service - Food and Nutrition
