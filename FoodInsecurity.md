@@ -1,10 +1,10 @@
-***Food Insecurity Challenge***
+##Food Insecurity Challenge
 
 **How do we get an actionable picture of food insecurity at the
 community and county level and build solutions to better tackle this
 important issue?**
 
-**THE PROBLEM: **
+**THE PROBLEM:**
 
 [Many California families are eating a nutritionally poor diet or going
 hungry](http://www.cafoodbanks.org/hunger-factsheet). According to
