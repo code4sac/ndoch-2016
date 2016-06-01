@@ -1,30 +1,4 @@
-**Food Insecurity Challenge**
-
-**CDPH’s participation in the National Day of Civic Hacking:** The Let's
-Get Healthy California and Open Data teams are currently exploring an
-opportunity to participate in the [National Day of Civic
-Hacking](https://www.codeforamerica.org/events/national-day-2016) on
-June 4th, 2016.  This is a nationwide day of action where developers,
-government employees, designers, journalists, data scientists,
-non-profit employees, UX designers, and residents who care about their
-communities come together to host civic tech events leveraging their
-skills to help their community.  We have been invited to submit an issue
-challenge to a local hack-a-thon even hosted by Code for Sacramento.
- Each challenge includes three elements (1) challenge question (2)
-problem statement (3) links to available data/information resources
-(such as LGHC, Open Data Portal and others) that civic technologists can
-use to build their proposed solution to the challenge.
-
-This is a creative opportunity to raise awareness regarding our
-Let's Get Healthy California and Open Data efforts, and partner with
-civic tech, academia and private industry, as well as to engage the
-public to build a solution to address a public health issue. We also
-have the option to send, or otherwise make available remotely, a SME
-representative(s) to attend the challenge launch and answer questions of
-the teams that are participating to help inform their approach. We plan
-to showcase the challenge, recap the outcome and highlight any standout
-solutions on
-the [LetsGetHealthy.ca.gov](https://mail.ces.ca.gov/owa/www.LetsGetHealthy.ca.gov). 
+***Food Insecurity Challenge***
 
 **How do we get an actionable picture of food insecurity at the
 community and county level and build solutions to better tackle this
