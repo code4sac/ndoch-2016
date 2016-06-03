@@ -33,6 +33,12 @@ Participants can take part in a number of official national and state challenges
 
 #### General Datasets
 
+**Promise Zone Performance Measurement Documents:** The Federal government has produced many documents with ideas for how to measure Promise Zone performance, several of which are linked below. These are full of great data leads. But the Feds have specifically requested that we use our creativity to come up with novel ideas, and if they like what you create, they may adopt it nationally! If you need help finding data, please let us know and we'll do our best to help you out!
+  - [Data Inventory for Management and Evaluation of Place-Based Initiatives](https://drive.google.com/open?id=0B6nO657DWOx0WF8yUzIxblRaX3k2UEFLUzN2M2dMbWxxY3RB)
+  - [Promise Zones Goals and Core Indicators](https://drive.google.com/open?id=0B6nO657DWOx0YS1BQlZrWnA0Q0c0dGFhX0xSVnhJVkQ0azlZ)
+  - [Tracking Strategies and Roles for Promise Zone Designees and Federal Staff](https://drive.google.com/open?id=0B6nO657DWOx0R19rYWp2WkNjQ3VVZ3BYTTYybkxmdjhjRVVz)
+  - [Overview of Urban Promise Zones Communication, Reporting, and Data Sharing Framework](https://drive.google.com/open?id=0B6nO657DWOx0RVlYRkpKYVBPWG1oZHRZYVJfTmJKNTFhLUVz)
+
 **City of Sacramento Open Data:** The City of Sacramento has begun a concerted effort to make its data available for use by the broader community. Several of the available datasets could be helpful in providing information about the targeted communities.
 * [City of Sacramento Open Data Portal](http://data.cityofsacramento.org/)
 
