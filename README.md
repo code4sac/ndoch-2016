@@ -40,6 +40,9 @@ Participants can take part in a number of official national and state challenges
   - [Promise Zones Goals and Core Indicators](https://drive.google.com/open?id=0B6nO657DWOx0YS1BQlZrWnA0Q0c0dGFhX0xSVnhJVkQ0azlZ) (XLSX)
   - [Tracking Strategies and Roles for Promise Zone Designees and Federal Staff](https://drive.google.com/open?id=0B6nO657DWOx0R19rYWp2WkNjQ3VVZ3BYTTYybkxmdjhjRVVz) (PDF)
   - [Overview of Urban Promise Zones Communication, Reporting, and Data Sharing Framework](https://drive.google.com/open?id=0B6nO657DWOx0RVlYRkpKYVBPWG1oZHRZYVJfTmJKNTFhLUVz) (PDF)
+  - [Promise Zone Federal Resources](https://drive.google.com/open?id=0B6So69rLSfMzZmRSYjRGNjluT0k) (XLSX)
+  - [Federal Partner Funding and Technical Assistance Opportunities](https://www.hudexchange.info/programs/promise-zones/federal-partner-funding-and-technical-assistance-opportunities/)
+
 
 **City of Sacramento Open Data:** The City of Sacramento has begun a concerted effort to make its data available for use by the broader community. Several of the available datasets could be helpful in providing information about the targeted communities.
 * [City of Sacramento Open Data Portal](http://data.cityofsacramento.org/)
