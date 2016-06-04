@@ -64,6 +64,7 @@ Participants can take part in a number of official national and state challenges
 
 **HUD Datasets:** The US Department of Housing and Urban Development provides a number of datasets that can provide information about the health and economic wellbeing of a community.
 * [HUD Datasets](https://www.huduser.gov/portal/pdrdatas_landing.html)
+* [Guide to HUD User Datasets](https://drive.google.com/open?id=0B6So69rLSfMzbU5EZmtSVEpZWkU)
 
 #### Environment
 
