@@ -203,3 +203,15 @@ tackle food insecurity challenges.
 
 -   [San Francisco Marin Food Bank - CalFresh Data
     Tools](http://www.sfmfoodbank.org/calfresh-data-tools)
+
+**Sacramento County-Specific Resources**
+
+-   [California Food Policy Advocates-County Profiles](http://cfpa.net/county-profiles)
+-   [Sacramento 211](http://www.211sacramento.org/211/online-database/categories/food/)
+-   [Hunger Hits Home 2012 - Sacramento County](http://www.sachousingalliance.org/wp-content/uploads/2013/03/Hunger-Hits-Home-Report-FINAL.pdf)
+-   [California Department of Public Health Sacramento County Profile](https://www.cdph.ca.gov/programs/NEOPB/Documents/Sacramento%20County%20Profile.pdf)
+-   [Sacramento Food Banks & Pantries](http://onefatherslove.com/FoodandMealServices.aspx)
+-   [Mobile Food Pantries -  Sacramento](http://onefatherslove.com/Mobile_food_distributions_sacramento_food_banks)
+-   [Congregate Meal Sites](http://mowsac.org/congregate-meal-sites/)
+-   [CDPH GIS](http://gis.cdph.ca.gov/NEOPBGIS/)
+-   [Summer Meal Sites](http://www.cde.ca.gov/ds/sh/sn/summersites.asp)
