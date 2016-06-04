@@ -33,7 +33,9 @@ Participants can take part in a number of official national and state challenges
 
 #### General Datasets
 
-**Promise Zone Performance Measurement Documents:** The Federal government has produced many documents with ideas for how to measure Promise Zone performance, several of which are linked below. These are full of great data leads. But the Feds have specifically requested that we use our creativity to come up with novel ideas, and if they like what you create, they may adopt it nationally! If you need help finding data, please let us know and we'll do our best to help you out!
+**Promise Zone Performance Measurement Documents:** The documents listed here contain Promise Zone performance measurement ideas from both the Federal government and UC Davis researchers. These are full of great data leads. But the Feds have specifically requested that we use our creativity to come up with novel ideas, and if they like what you create, they may adopt it nationally! If you need help finding data, please let us know and we'll do our best to help you out!
+  - [Promise Zone Indicators Identified by Stakeholders](https://drive.google.com/open?id=0B6So69rLSfMzTldfRmFqRXR6eEk) (DOCX)
+  - [Data Visualization Ideas for Promise Zone](https://drive.google.com/open?id=0B6So69rLSfMzNmk1dUlaN2UtWmc) (DOCX)
   - [Data Inventory for Management and Evaluation of Place-Based Initiatives](https://drive.google.com/open?id=0B6nO657DWOx0WF8yUzIxblRaX3k2UEFLUzN2M2dMbWxxY3RB) (XLSX)
   - [Promise Zones Goals and Core Indicators](https://drive.google.com/open?id=0B6nO657DWOx0YS1BQlZrWnA0Q0c0dGFhX0xSVnhJVkQ0azlZ) (XLSX)
   - [Tracking Strategies and Roles for Promise Zone Designees and Federal Staff](https://drive.google.com/open?id=0B6nO657DWOx0R19rYWp2WkNjQ3VVZ3BYTTYybkxmdjhjRVVz) (PDF)
@@ -67,3 +69,6 @@ Participants can take part in a number of official national and state challenges
 
 **CalEnviroScreen:** The California Office of Environmental Health Hazard Assessment (OEHHA) has created a tool to identify communities that are disproportionately burdened by pollution. The CalEnviroScreen score is based on 19 individual measures of pollution and population vulnerability at the census tract level.
 * [CalEnviroScreen 2.0](http://oehha.ca.gov/calenviroscreen/report/calenviroscreen-version-20)
+
+**Federal Hazardous Waste Cleanup Sites:**
+* [Cleanups in My Community](https://www.epa.gov/cleanups/cleanups-my-community)
